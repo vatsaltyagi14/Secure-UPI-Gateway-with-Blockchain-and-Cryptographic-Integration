@@ -1,4 +1,4 @@
-#Secure UPI Gateway with Blockchain and Cryptographic Integration
+# Secure UPI Gateway with Blockchain and Cryptographic Integration
 
 This project implements a simulated centralized UPI (Unified Payments Interface) Payment Gateway with advanced cryptographic techniques to ensure secure digital transactions. The system integrates Blockchain for transaction integrity, Lightweight Cryptography (LWC) for efficient encryption, and a simulation of Shor’s Algorithm to demonstrate potential vulnerabilities in classical cryptographic mechanisms such as PINs and UIDs.
 
